@@ -1,6 +1,12 @@
 # A-and-Dijkstra-algorithm
 Python implementation of A* and Dijkstra algorithm:
 
+### A* Algorithm visualization
+![](Astar.gif)
+
+### Dijistra Algorithm visualization
+![](Dijistra.gif)
+
 Implemented Dijkstra and A* algorithm to find a path between start and end point on a given map for a Point Robot (radius = 0; clearance = 0) as well as a Rigid Robot (radius and clearance can be user defined)
 
 For the Rigid Robot case, I used Minkowski Sum method to expand the given map.
